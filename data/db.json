@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "completed": false,
+      "todo": "go to market"
+    },
+    {
+      "id": 3,
+      "completed": true,
+      "todo": "do homework"
+    },
+    {
+      "id": 6,
+      "completed": false,
+      "todo": "hyfa hassan"
+    }
+  ]
+}
